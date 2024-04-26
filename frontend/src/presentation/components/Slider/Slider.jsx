@@ -16,7 +16,7 @@ export default function Slider() {
       >
         <SwiperSlide>
           <img
-            src="../../../../src/presentation/assets/img/imgSlider1.jpg"
+            src="../../assets/img/imgSlider1.jpg"
             alt="Playa de San Juan de la Arena"
           />
         </SwiperSlide>
